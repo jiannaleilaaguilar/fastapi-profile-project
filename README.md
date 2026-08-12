@@ -6,7 +6,7 @@ A full-stack user profile management system built with **FastAPI**, **SQLAlchemy
 
 ## 🚀 Repository Links
 * **GitHub Repository:** [https://github.com/jiannaleilaaguilar/fastapi-profile-project](https://github.com/jiannaleilaaguilar/fastapi-profile-project)
-* **Docker Hub Repository:** [https://hub.docker.com/r/YOUR_DOCKERHUB_USERNAME/fastapi-profile-app](https://hub.docker.com/r/YOUR_DOCKERHUB_USERNAME/fastapi-profile-app)
+* **Docker Hub Repository:** [https://hub.docker.com/r/jiannaleila/fastapi-profile-app](https://hub.docker.com/r/jiannaleila/fastapi-profile-app)
 
 ---
 
